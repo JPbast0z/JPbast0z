@@ -1,6 +1,6 @@
 <!-- BANNER SUPERIOR -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4&height=220&section=header&text=Jayπ&fontSize=60&fontAlignY=35&desc=Desenvolvedor%20de%20Software%20&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4&height=220&section=header&text=João Pedro&fontSize=60&fontAlignY=35&desc=Desenvolvedor%20de%20Software&descAlignY=55&descSize=20" width="100%"/>
 </div>
 
 <!-- APRESENTAÇÃO E GIF -->
@@ -8,11 +8,11 @@
   <img align="right" width="200" src="https://i.pinimg.com/originals/6c/90/28/6c90288d7e10d46d18895f17f420a92c.gif"/>
   
   <div align="left">
-    <h3>👋 Olá! Eu sou o Jayπ (@JPbast0z)</h3>
+    <h3>👋 Olá! Eu sou o João Pedro (@JPbast0z)</h3>
     <p>
       💻 Desenvolvedor focado em soluções robustas, backend e engenharia de software.<br>
       🚀 Apaixonado por resolver problemas complexos e construir aplicações escaláveis.<br>
-      📫 Sinta-se à vontade para explorar meus repositórios e trocar uma ideia!
+      📫 Sinta-se à vontade para explorar meus repositórios e entrar em contato!
     </p>
   </div>
 </div>
@@ -51,11 +51,8 @@
 ### 📫 Conecte-se comigo
 
 <div align="center">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="mailto:SEU_EMAIL@exemplo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  <a href="https://www.linkedin.com/in/jpsbastos" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
