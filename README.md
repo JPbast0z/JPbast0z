@@ -1,6 +1,6 @@
 <!-- BANNER SUPERIOR -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4&height=220&section=header&text=Jayπ&fontSize=60&fontAlignY=35&desc=Software%20Developer&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4&height=220&section=header&text=Jayπ&fontSize=60&fontAlignY=35&desc=Desenvolvedor%20de%20Software%20&descAlignY=55&descSize=20" width="100%"/>
 </div>
 
 <!-- APRESENTAÇÃO E GIF -->
@@ -8,12 +8,11 @@
   <img align="right" width="200" src="https://i.pinimg.com/originals/6c/90/28/6c90288d7e10d46d18895f17f420a92c.gif"/>
   
   <div align="left">
-    <h3>👋 Hi there! I'm Jayπ (@JPbast0z)</h3>
+    <h3>👋 Olá! Eu sou o Jayπ (@JPbast0z)</h3>
     <p>
-      🔭 Currently working on: <b>[Seu cargo / Seus projetos atuais]</b><br>
-      🌱 Currently learning / researching: <b>Ethics in AI & Advanced Architectures</b><br>
-      💬 Ask me about: <b>Backend Development, APIs and System Design</b><br>
-      ⚡ Fun fact: <i>[Adicione uma curiosidade sobre você]</i>
+      💻 Desenvolvedor focado em soluções robustas, backend e engenharia de software.<br>
+      🚀 Apaixonado por resolver problemas complexos e construir aplicações escaláveis.<br>
+      📫 Sinta-se à vontade para explorar meus repositórios e trocar uma ideia!
     </p>
   </div>
 </div>
@@ -22,37 +21,34 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tecnologias & Ferramentas
 
-<!-- STACK PRINCIPAL -->
-<p align="left"><b>Daily Drivers:</b></p>
+<p align="left"><b>Linguagens & Frameworks:</b></p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,postgres,jest,docker,git,linux" />
+    <img src="https://skillicons.dev/icons?i=c,python,java,php,js,ts,laravel" />
   </a>
 </p>
 
-<!-- OUTRAS TECNOLOGIAS / HISTÓRICO -->
-<details>
-  <summary><b>📦 Technologies I've also worked with (Past Experience)</b></summary>
-  <br>
+<p align="left"><b>Bancos de Dados & Controle de Versão:</b></p>
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,aws,azure,mysql" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,git" />
   </a>
-</details>
+</p>
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JPbast0z&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JPbast0z&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JPbast0z&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true" height="150" alt="Gráfico de estatísticas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JPbast0z&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="Linguagens mais utilizadas" />
 </div>
 
 ---
 
-### 📫 Connect with Me
+### 📫 Conecte-se comigo
 
 <div align="center">
   <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
@@ -60,9 +56,6 @@
   </a>
   <a href="mailto:SEU_EMAIL@exemplo.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
-  <a href="SEU_PORTFOLIO_OU_SITE" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" />
   </a>
 </div>
 
