@@ -1,6 +1,6 @@
 <!-- BANNER SUPERIOR -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4&height=220&section=header&text=João Pedro&fontSize=60&fontAlignY=35&desc=Desenvolvedor%20de%20Software&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4&height=220&section=header&text=João%20Pedro&fontSize=60&fontAlignY=35&desc=Desenvolvedor%20de%20Software&descAlignY=55&descSize=20" width="100%"/>
 </div>
 
 <!-- APRESENTAÇÃO E GIF -->
